@@ -4,3 +4,4 @@ sst2_sentiment_dataset*
 setup
 LGG_MRI_dataset*
 mri-dataset
+unet.weights.h5
